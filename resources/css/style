@@ -1,10 +1,10 @@
 h1 {
-  background-color: black;
-    font-family: Veranda;
+  font-family: Veranda;
   font-size:50px;
   font-weight: Normal;
   color: White;
   text-align: center;
+  background-color: black;
 }
 
 h2 {
@@ -19,11 +19,11 @@ p {
   font-size: 21px;
   color: Gray;
 
-.# {
+# {
     font-family: Aquamarine;
     font-size: 16px;
-   }
-   
+  }
+
 .footer {
   color: Gray;
   text-align: Right
